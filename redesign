@@ -1,0 +1,16 @@
+Redesign
+
+In sketch.js...
+
+1) Make
+"sonic.velocityX = 20;" (line 24),
+"camera.position.x = sonic.position.x + 760;" (line 36),
+and
+"sonic.y = World.mouseY;" (line 40)
+comments.
+
+2) Make
+"camera.position.x = 950;" (line 37),
+and
+"camera.velocityX = 20;" (line 38),
+NOT comments.
